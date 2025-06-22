@@ -6,8 +6,32 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.20+-green.svg)
 ![Machine Learning](https://img.shields.io/badge/ML-Bankruptcy_Prediction-orange.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Donate](https://img.shields.io/badge/Donate-Support%20Project-blueviolet)](https://paypal.me/mshadianto)
+
+## 💰 Support This Project
+
+### 🌟 Donation Options
+
+Help keep this project alive and growing! Every contribution matters.
+
+| Platform | Method | Details | Action |
+|----------|--------|---------|--------|
+| 💳 **Gopay** | Digital Wallet | 08159658833 | [Donate Now](https://link.dana.id/qr/your-qr-code) |
+| 🏦 **Bank Transfer** | BCA Account | 6090221475 (M Sopian Hadianto) | Copy Account Number |
+| 💳 **PayPal** | Online Donation | Secure Payments | [Donate via PayPal](https://paypal.me/mshadianto) |
+| ☕ **Buy Me a Coffee** | Quick Support | Small Contributions | [Buy Coffee](https://buymeacoffee.com/mshadianto) |
+
+### 🎁 Donation Tiers
+
+| Tier | Amount | Perks |
+|------|--------|-------|
+| 🥉 Supporter | $5 | Name in Contributors List |
+| 🥈 Contributor | $20 | Supporter Perks + Feature Suggestion |
+| 🥇 Patron | $50+ | All Previous + Priority Support |
 
 ## 🌟 Project Overview
+
+[Rest of the previous README content remains the same...]
 
 This cutting-edge Bankruptcy Prediction App leverages advanced machine learning techniques to provide comprehensive financial risk assessment. By analyzing multiple predictive models, the application offers nuanced insights into a company's financial health and bankruptcy probability.
 
