@@ -127,7 +127,7 @@ streamlit run app/main.py
 For issues, questions, or suggestions:
 - Open a GitHub Issue
 - Contact Developer: sopian.hadianto@gmail.com
-- Project Maintainer's Email: sopian.hadianto@gmail.com
+- Project Maintainer's Email: support@bankruptcyprediction.com
 
 ## 📄 License
 
